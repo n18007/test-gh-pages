@@ -1,2 +1,2 @@
 # test-gh-pages
-githubページのどうさっかく
+githubページの動作確認
